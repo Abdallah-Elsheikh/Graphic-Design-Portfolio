@@ -39,5 +39,4 @@ Here are samples of the marketing materials and social media designs:
 
 ---
 
-## 👨‍💻 Author
-**Abdallah Salah ELsheikh** - Software Engineer with a Creative Edge
+
